@@ -6,6 +6,6 @@ featured: false
 tags:
   - BPO
 image:
-  filename: featured
+  filename: https://airfixture.com/wp-content/uploads/2019/05/Designing-a-high-rise-building-thegem-blog-timeline-large.jpg
   preview_only: false
 ---
