@@ -31,7 +31,7 @@ abstract: The number of studies considering building performance optimization
 draft: false
 featured: false
 tags:
-  - Building Performance Optimzation
+  - Building Performance Optimization
 image:
   filename: ""
   focal_point: ""
