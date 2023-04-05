@@ -1,6 +1,6 @@
 ---
 title: Tianjin high-rise architecture optimization design research
-subtitle: 天津高层建筑优化设计研究
+subtitle: ""
 date: 2023-04-05T23:52:29.076Z
 draft: false
 featured: false
@@ -9,4 +9,3 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Tianjin high-rise architecture optimization design research
