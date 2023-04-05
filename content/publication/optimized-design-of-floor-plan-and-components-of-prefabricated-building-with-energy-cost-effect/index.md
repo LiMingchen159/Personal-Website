@@ -10,7 +10,7 @@ authors:
   - Zhoupeng Wang
   - and Yangkong Zhou
 author_notes:
-  - None
+  - ""
   - Corresponding author
 doi: https://doi.org/10.3390/app12083740
 publication: Applied Sciences
