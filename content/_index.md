@@ -27,7 +27,6 @@ sections:
           icon: house-laptop
           icon_pack: fas
   
-
   - block: collection
     id: publications
     content:
