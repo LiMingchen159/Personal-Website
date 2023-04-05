@@ -68,8 +68,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: BPO
+          tag: BPO
         - name: Other
           tag: Demo
     design:
