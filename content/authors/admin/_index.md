@@ -18,9 +18,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/LiMingchen159
-  - icon: linkedin
+  - icon: weixin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: uploads/Wechat Code.jpg
   - icon: cv
     icon_pack: ai
     link: uploads/CV-EN-Mingchen Li.pdf
