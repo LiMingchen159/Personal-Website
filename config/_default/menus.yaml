@@ -9,7 +9,7 @@ main:
     weight: 10
     
   - name: Publications
-    url: 'tag/All Publications'
+    url: 'tag/all-publications'
     weight: 20
 
   - name: Projects
