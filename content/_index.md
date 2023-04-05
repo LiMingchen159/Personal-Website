@@ -23,10 +23,18 @@ sections:
         - name: R
           icon: r-project
           icon_pack: fab
-        - name: Building Performance Simulation & Parametric Modeling
-          icon: house-laptop
+        - name: Latex
+          icon: code
           icon_pack: fas
-  
+        - name: Building daylight simulation
+          icon: bug
+          icon_pack: fas
+        - name: Building energy simulation
+          icon: forumbee
+          icon_pack: fab
+        - name: Parametric Modeling
+          icon: mendeley
+          icon_pack: fab
   - block: collection
     id: publications
     content:
