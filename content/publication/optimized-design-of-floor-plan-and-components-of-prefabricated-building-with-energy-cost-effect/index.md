@@ -34,6 +34,7 @@ draft: false
 featured: false
 tags:
   - Building Performance Optimization
+url_pdf: https://www.mdpi.com/2076-3417/12/8/3740/pdf?version=1649387298
 image:
   filename: applsci-12-03740-g001.png
   focal_point: ""
