@@ -27,6 +27,7 @@ sections:
           icon: house-laptop
           icon_pack: fas
   
+
   - block: collection
     id: publications
     content:
@@ -42,6 +43,7 @@ sections:
     design:
       columns: '2'
       view: citation
+      
 
   - block: accomplishments
     id: accomplishments
