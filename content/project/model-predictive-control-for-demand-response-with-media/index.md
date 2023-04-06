@@ -10,4 +10,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-VRF selection, algorithm deployment, and Brick Schema semantic model modeling.
+The main parts I am responsible for are, VRF selection, algorithm deployment and Brick Schema semantic model modeling.
