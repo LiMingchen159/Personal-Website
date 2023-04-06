@@ -93,13 +93,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.huawei.com/en/
+        - certificate_url: uploads/Huawei.pdf
           date_end: '2023-01'
           date_start: '2022-09'
           description: ''
           organization: Huawei
           organization_url: https://www.huawei.com/en/
-          title: "Optics Valley Of China. Huawei Cup" The 19th China Post-Graduate Mathematical Contest in Modeling.
+          title: "'Optics Valley Of China. Huawei Cup' The 19th China Post-Graduate Mathematical Contest in Modeling."
           url: ''
       #   - certificate_url: uploads/Catifications-Mingchen Li_页面_14.jpg
       #     date_end: '2022'
