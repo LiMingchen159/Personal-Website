@@ -92,31 +92,31 @@ sections:
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: uploads/Huawei.pdf
-          date_end: '2023'
-          date_start: '2022'
-          description: ''
-          organization: Huawei
-          organization_url: https://www.huawei.com/en/
-          title: "Optics Valley Of China. Huawei Cup" The 19th China Post-Graduate Mathematical Contest in Modeling.
-          url: ''
-        - certificate_url: uploads/Catifications-Mingchen Li_页面_14.jpg
-          date_end: '2022'
-          date_start: '2022'
-          description: ''
-          organization: WUHAN DESIGN
-          organization_url: http://www.wuhancityofdesign.com/en/
-          title: The best work of the first domestic BIM application 100 universities invitations (Leader).
-          url: ''
-        - certificate_url: uploads/Catifications-Mingchen Li_页面_12.jpg
-          date_end: '2022'
-          date_start: '2021'
-          description: ''
-          organization: PKPM
-          organization_url: https://www.pkpm.cn/
-          title: 2021 BIM Technology Application Innovation Labor Competition Domestic Software Group (Leader)
-          url: ''
+      # items:
+      #   - certificate_url: uploads/Huawei.pdf
+      #     date_end: '2023'
+      #     date_start: '2022'
+      #     description: ''
+      #     organization: Huawei
+      #     organization_url: https://www.huawei.com/en/
+      #     title: "Optics Valley Of China. Huawei Cup" The 19th China Post-Graduate Mathematical Contest in Modeling.
+      #     url: ''
+      #   - certificate_url: uploads/Catifications-Mingchen Li_页面_14.jpg
+      #     date_end: '2022'
+      #     date_start: '2022'
+      #     description: ''
+      #     organization: WUHAN DESIGN
+      #     organization_url: http://www.wuhancityofdesign.com/en/
+      #     title: The best work of the first domestic BIM application 100 universities invitations (Leader).
+      #     url: ''
+      #   - certificate_url: uploads/Catifications-Mingchen Li_页面_12.jpg
+      #     date_end: '2022'
+      #     date_start: '2021'
+      #     description: ''
+      #     organization: PKPM
+      #     organization_url: https://www.pkpm.cn/
+      #     title: 2021 BIM Technology Application Innovation Labor Competition Domestic Software Group (Leader)
+      #     url: ''
     design:
       columns: '2'
 
