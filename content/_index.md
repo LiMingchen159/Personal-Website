@@ -93,7 +93,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: uploads/Huawei.pdf
+        - certificate_url: https://www.huawei.com/en/
           date_end: '2023-01'
           date_start: '2022-09'
           description: ''
