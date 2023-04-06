@@ -101,14 +101,14 @@ sections:
           organization_url: https://www.huawei.com/en/
           title: "'Optics Valley Of China. Huawei Cup' The 19th China Post-Graduate Mathematical Contest in Modeling."
           url: ''
-      #   - certificate_url: uploads/Catifications-Mingchen Li_页面_14.jpg
-      #     date_end: '2022'
-      #     date_start: '2022'
-      #     description: ''
-      #     organization: WUHAN DESIGN
-      #     organization_url: http://www.wuhancityofdesign.com/en/
-      #     title: The best work of the first domestic BIM application 100 universities invitations (Leader).
-      #     url: ''
+        - certificate_url: uploads/Catifications-Mingchen Li_页面_14.jpg
+          date_end: '2022'
+          date_start: '2022'
+          description: ''
+          organization: WUHAN DESIGN
+          organization_url: http://www.wuhancityofdesign.com/en/
+          title: The best work of the first domestic BIM application 100 universities invitations (Leader).
+          url: ''
         - certificate_url: uploads/Catifications-Mingchen Li_页面_12.jpg
           date_end: '2022-01-01'
           date_start: '2021-06-01'
