@@ -94,8 +94,8 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: uploads/Huawei.pdf
-          date_end: '2023'
-          date_start: '2022'
+          date_end: '2023-01'
+          date_start: '2022-09'
           description: ''
           organization: Huawei
           organization_url: https://www.huawei.com/en/
