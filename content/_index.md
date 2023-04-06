@@ -113,7 +113,7 @@ sections:
           date_end: '2022-01-01'
           date_start: '2021-06-01'
           description: ''
-          organization: pkpm
+          organization: PKPM
           organization_url: https://www.pkpm.cn/
           title: 2021 BIM Technology Application Innovation Labor Competition Domestic Software Group (Leader)
           url: ''
