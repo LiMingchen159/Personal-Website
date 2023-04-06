@@ -1,5 +1,5 @@
 ---
-title: Model Predictive Control for Demand Response  with Media
+title: Model Predictive Control for Demand Response  with Midea
 date: 2023-04-06T00:11:23.938Z
 draft: false
 featured: false
