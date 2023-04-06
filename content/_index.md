@@ -109,14 +109,14 @@ sections:
       #     organization_url: http://www.wuhancityofdesign.com/en/
       #     title: The best work of the first domestic BIM application 100 universities invitations (Leader).
       #     url: ''
-      #   - certificate_url: uploads/Catifications-Mingchen Li_页面_12.jpg
-      #     date_end: '2022'
-      #     date_start: '2021'
-      #     description: ''
-      #     organization: PKPM
-      #     organization_url: https://www.pkpm.cn/
-      #     title: 2021 BIM Technology Application Innovation Labor Competition Domestic Software Group (Leader)
-      #     url: ''
+        - certificate_url: uploads/Catifications-Mingchen Li_页面_12.jpg
+          date_end: '2022-01-01'
+          date_start: '2021-06-01'
+          description: ''
+          organization: pkpm
+          organization_url: https://www.pkpm.cn/
+          title: 2021 BIM Technology Application Innovation Labor Competition Domestic Software Group (Leader)
+          url: ''
     design:
       columns: '2'
 
