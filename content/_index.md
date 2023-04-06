@@ -68,10 +68,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: BPO
-          tag: BPO
+        - name: VRF
+          tag: VRF
         - name: Other
-          tag: Demo
+          tag: Other
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -93,29 +93,29 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
+        - certificate_url: uploads/Huawei.pdf
+          date_end: '2023'
+          date_start: '2022'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: Huawei
+          organization_url: https://www.huawei.com/en/
+          title: "Optics Valley Of China. Huawei Cup" The 19th China Post-Graduate Mathematical Contest in Modeling.
           url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+        - certificate_url: uploads/Catifications-Mingchen Li_页面_14.jpg
+          date_end: '2022'
+          date_start: '2022'
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: WUHAN DESIGN
+          organization_url: http://www.wuhancityofdesign.com/en/
+          title: The best work of the first domestic BIM application 100 universities invitations (Leader).
+          url: ''
+        - certificate_url: uploads/Catifications-Mingchen Li_页面_12.jpg
+          date_end: '2022'
+          date_start: '2021'
+          description: ''
+          organization: PKPM
+          organization_url: https://www.pkpm.cn/
+          title: 2021 BIM Technology Application Innovation Labor Competition Domestic Software Group (Leader)
           url: ''
     design:
       columns: '2'
