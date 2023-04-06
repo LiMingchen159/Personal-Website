@@ -102,8 +102,8 @@ sections:
           title: "'Optics Valley Of China. Huawei Cup' The 19th China Post-Graduate Mathematical Contest in Modeling."
           url: ''
         - certificate_url: uploads/Catifications-Mingchen Li_页面_14.jpg
-          date_end: '2022'
-          date_start: '2022'
+          date_end: '2022-01-01'
+          date_start: '2022-09-01'
           description: ''
           organization: WUHAN DESIGN
           organization_url: http://www.wuhancityofdesign.com/en/
