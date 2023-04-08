@@ -1,7 +1,7 @@
 ---
 title: Mingchen Li 李銘晨
 role: PHD in Civil Engineering (Scientific Computation)
-avatar_filename: 77c7951fa34a63c4bd93d5dd1d1d3f4.png
+avatar_filename: avatar.png
 bio: My research interests include Building Performance Optimization, Semantic
   Model and Machine Learning.
 interests:
