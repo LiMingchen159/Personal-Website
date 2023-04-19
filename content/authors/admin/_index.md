@@ -43,5 +43,5 @@ highlight_name: true
 first_name: Mingchen
 email: limingchen@tju.edu.cn
 ---
-Mingchen Li is a PHD student in Civil Engineering (Scientific Computation) at Hong Kong University of Science and Technology. He research interests include Building Performance Optimization, Semantic Model and Machine Learning. He is now a student of **[Prof. Wang](https://seng.hkust.edu.hk/about/people/faculty/walter-zhe-wang)** and works on semantic modeling of air conditioning systems.
+Mingchen Li is a PHD student in Civil Engineering (Scientific Computation) at Hong Kong University of Science and Technology. He research interests include Building Performance Optimization, Semantic Model and Machine Learning. He is now a student of **[Prof. Wang](https://walterzwang.github.io/)** and works on semantic modeling of air conditioning systems.
 {style="text-align: justify;"}
