@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - D Wang
-  - Mingchen Li
+  - admin
   - M Guo
   - Q Shi
   - C Zheng
