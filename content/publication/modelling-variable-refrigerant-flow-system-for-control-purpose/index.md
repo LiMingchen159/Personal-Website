@@ -43,6 +43,7 @@ abstract: Variable Refrigerant Flow (VRF) systems are gradually gaining
   fault diagnostic and detection.
 draft: false
 featured: false
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0378778823003936
 image:
   filename: featured
   focal_point: Smart
